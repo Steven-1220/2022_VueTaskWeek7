@@ -18,6 +18,6 @@ git commit -m 'deploy'
 
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Steven-1220/2022_Vue_Task_Week7.git master:gh-pages
+git push -f git@github.com:Steven-1220/2022_VueTaskWeek7.git master:gh-pages
 
 cd -
