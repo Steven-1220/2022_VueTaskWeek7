@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek7_hw_dashboard"]=self["webpackChunkweek7_hw_dashboard"]||[]).push([[306],{7306:function(e,a,n){n.r(a),n.d(a,{default:function(){return h}});var s=n(3396);const r=(0,s._)("h1",{class:"display-1 text-danger"},"404",-1),t=(0,s._)("p",{class:"display-3"},"此頁面找不到資料",-1);function u(e,a){return(0,s.wg)(),(0,s.iD)(s.HY,null,[r,t],64)}var c=n(89);const d={},l=(0,c.Z)(d,[["render",u]]);var h=l}}]);
+//# sourceMappingURL=306.53f47ff2.js.map

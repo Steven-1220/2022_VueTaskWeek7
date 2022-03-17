@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek7_hw_dashboard"]=self["webpackChunkweek7_hw_dashboard"]||[]).push([[629],{9629:function(e,n,r){r.r(n),r.d(n,{default:function(){return c}});var u=r(3396);function a(e,n){return(0,u.wg)(),(0,u.iD)("h1",null,"後台文章")}var t=r(89);const h={},s=(0,t.Z)(h,[["render",a]]);var c=s}}]);
+//# sourceMappingURL=629.732a86fd.js.map
